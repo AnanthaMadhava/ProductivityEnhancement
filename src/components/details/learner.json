@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "name": "Anantha",
+        "email": "ananthamadhava95@gmail.com",
+        "phone": "9740544464",
+        "alterPhone": "8618444341",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "Hoskerehalli",
+        "doj": "28-1-2019"
+    },
+    {
+        "id": 2,
+        "name": "Arun",
+        "email": "arun@gmail.com",
+        "phone": "123456789",
+        "alterPhone": "9876554321",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "ullala",
+        "doj": "12-1-2019"
+    },
+    {
+        "id": 3,
+        "name": "Hanmanth",
+        "email": "hanmanth@gmail.com",
+        "phone": "0987654321",
+        "alterPhone": "7389374945",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "rajadinagar",
+        "doj": "17-1-2019"
+    },
+    {
+        "id": 4,
+        "name": "Sukrutha",
+        "email": "sukrutha@gmail.com",
+        "phone": "123456789",
+        "alterPhone": "9876554321",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "silkboard",
+        "doj": "16-1-2019"
+    },
+    {
+        "id": 5,
+        "name": "Lalasa",
+        "email": "lalasa@gmail.com",
+        "phone": "1234567890",
+        "alterPhone": "9876554321",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "btm 2nd stage",
+        "doj": "28-1-2019"
+    },
+    {
+        "id": 6,
+        "name": "Anantha",
+        "email": "ananthamadhava95@gmail.com",
+        "phone": "9740544464",
+        "alterPhone": "8618444341",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "Hoskerehalli",
+        "doj": "28-1-2019"
+    },
+    {
+        "id": 7,
+        "name": "Arun",
+        "email": "arun@gmail.com",
+        "phone": "123456789",
+        "alterPhone": "9876554321",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "ullala",
+        "doj": "12-1-2019"
+    },
+    {
+        "id": 8,
+        "name": "Hanmanth",
+        "email": "hanmanth@gmail.com",
+        "phone": "0987654321",
+        "alterPhone": "7389374945",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "rajadinagar",
+        "doj": "17-1-2019"
+    },
+    {
+        "id": 9,
+        "name": "Sukrutha",
+        "email": "sukrutha@gmail.com",
+        "phone": "123456789",
+        "alterPhone": "9876554321",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "silkboard",
+        "doj": "16-1-2019"
+    },
+    {
+        "id": 10,
+        "name": "Lalasa",
+        "email": "lalasa@gmail.com",
+        "phone": "1234567890",
+        "alterPhone": "9876554321",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "btm 2nd stage",
+        "doj": "28-1-2019"
+    },
+    {
+        "id": 11,
+        "name": "Anantha",
+        "email": "ananthamadhava95@gmail.com",
+        "phone": "9740544464",
+        "alterPhone": "8618444341",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "Hoskerehalli",
+        "doj": "28-1-2019"
+    },
+    {
+        "id": 12,
+        "name": "Arun",
+        "email": "arun@gmail.com",
+        "phone": "123456789",
+        "alterPhone": "9876554321",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "ullala",
+        "doj": "12-1-2019"
+    },
+    {
+        "id": 13,
+        "name": "Hanmanth",
+        "email": "hanmanth@gmail.com",
+        "phone": "0987654321",
+        "alterPhone": "7389374945",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "rajadinagar",
+        "doj": "17-1-2019"
+    },
+    {
+        "id": 14,
+        "name": "Sukrutha",
+        "email": "sukrutha@gmail.com",
+        "phone": "123456789",
+        "alterPhone": "9876554321",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "silkboard",
+        "doj": "16-1-2019"
+    },
+    {
+        "id": 15,
+        "name": "Lalasa",
+        "email": "lalasa@gmail.com",
+        "phone": "1234567890",
+        "alterPhone": "9876554321",
+        "primary": "React",
+        "secondary": "Node",
+        "address": "btm 2nd stage",
+        "doj": "28-1-2019"
+    }
+]

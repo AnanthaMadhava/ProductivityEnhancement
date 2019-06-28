@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Anantha",
+        "email": "ananthamadhava95@gmail.com",
+        "phone": "9740544464",
+        "address": "Hoskerehalli",
+        "technology": "React"
+    },
+    {
+        "id": 2,
+        "name": "Arun",
+        "email": "arun@gmail.com",
+        "phone": "1234567890",
+        "address": "Ullala",
+        "technology": "React"
+    },
+    {
+        "id": 3,
+        "name": "Hanmanth",
+        "email": "hanmanth@gmail.com",
+        "phone": "1234567890",
+        "address": "Rajadinagar",
+        "technology": "React"
+    },
+    {
+        "id": 4,
+        "name": "Anantha",
+        "email": "ananthamadhava95@gmail.com",
+        "phone": "9740544464",
+        "address": "Hoskerehalli",
+        "technology": "React"
+    },
+    {
+        "id": 5,
+        "name": "Arun",
+        "email": "arun@gmail.com",
+        "phone": "1234567890",
+        "address": "Ullala",
+        "technology": "React"
+    },
+    {
+        "id": 6,
+        "name": "Hanmanth",
+        "email": "hanmanth@gmail.com",
+        "phone": "1234567890",
+        "address": "Rajadinagar",
+        "technology": "React"
+    },
+    {
+        "id": 7,
+        "name": "Anantha",
+        "email": "ananthamadhava95@gmail.com",
+        "phone": "9740544464",
+        "address": "Hoskerehalli",
+        "technology": "React"
+    },
+    {
+        "id": 8,
+        "name": "Arun",
+        "email": "arun@gmail.com",
+        "phone": "1234567890",
+        "address": "Ullala",
+        "technology": "React"
+    },
+    {
+        "id": 9,
+        "name": "Hanmanth",
+        "email": "hanmanth@gmail.com",
+        "phone": "1234567890",
+        "address": "Rajadinagar",
+        "technology": "React"
+    },
+    {
+        "id": 10,
+        "name": "Anantha",
+        "email": "ananthamadhava95@gmail.com",
+        "phone": "9740544464",
+        "address": "Hoskerehalli",
+        "technology": "React"
+    },
+    {
+        "id": 11,
+        "name": "Arun",
+        "email": "arun@gmail.com",
+        "phone": "1234567890",
+        "address": "Ullala",
+        "technology": "React"
+    },
+    {
+        "id": 12,
+        "name": "Hanmanth",
+        "email": "hanmanth@gmail.com",
+        "phone": "1234567890",
+        "address": "Rajadinagar",
+        "technology": "React"
+    },
+    {
+        "id": 13,
+        "name": "Anantha",
+        "email": "ananthamadhava95@gmail.com",
+        "phone": "9740544464",
+        "address": "Hoskerehalli",
+        "technology": "React"
+    },
+    {
+        "id": 14,
+        "name": "Arun",
+        "email": "arun@gmail.com",
+        "phone": "1234567890",
+        "address": "Ullala",
+        "technology": "React"
+    },
+    {
+        "id": 15,
+        "name": "Hanmanth",
+        "email": "hanmanth@gmail.com",
+        "phone": "1234567890",
+        "address": "Rajadinagar",
+        "technology": "React"
+    }
+]
